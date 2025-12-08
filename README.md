@@ -5,4 +5,4 @@ Basically follow the link : https://emanual.robotis.com/docs/en/platform/turtleb
 
 D435i guide : https://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_perceptions/
 
-# Manipluator
+# Manipulator
