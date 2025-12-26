@@ -48,4 +48,9 @@ turtlebot3_openmanipulator guide : https://emanual.robotis.com/docs/en/platform/
 4. dynamixel Wizard 2.0 설치(모터 세팅값을 바꿔준다 생각하면 됨) <https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/>
 5. 이후 검색을 진행하여 ID 11~15까지 검색이 되는지 확인.
 6. 모든 모터의 delay time 을 250ms --> 0ms 설정. **저장 눌러요**
-7. 그리고 다시 OpenCR과 라즈베리파이를 연결하고 firmware부터 다시 진행. 
+7. 그리고 다시 OpenCR과 라즈베리파이를 연결하고 firmware부터 다시 진행.
+
+
+
+# Patch Note
+25/12/26(박정우) - 초안 작성. 추후 manipulator 파일 업로드 예정.
