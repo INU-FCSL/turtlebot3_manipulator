@@ -10,6 +10,8 @@ Basically follow the link : https://emanual.robotis.com/docs/en/platform/turtleb
 
 이 두가지를 모르면 ros2 기초 영상 다시 보고 오기
 
+---
+
 ## 📷Camera 
 D435i guide : https://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_perceptions/
 
@@ -30,6 +32,9 @@ build 완료가 되면
 정상적으로 켜지게 되면 다른 터미널 창 연다음에
 
     rqt #image /color/raw와 /depth/raw가 잘 나오는지 확인
+
+
+---
     
 ## 🦾Manipulator
 
@@ -51,6 +56,7 @@ turtlebot3_openmanipulator guide : https://emanual.robotis.com/docs/en/platform/
 7. 그리고 다시 OpenCR과 라즈베리파이를 연결하고 firmware부터 다시 진행.
 
 
+---
 
 # Patch Note
 25/12/26(박정우) - 초안 작성. 추후 manipulator 파일 업로드 예정.
